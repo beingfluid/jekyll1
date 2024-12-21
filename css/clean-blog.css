@@ -113,6 +113,10 @@ hr.small {
   .navbar-custom.is-fixed .nav li a {
     color: #404040;
   }
+
+  .selected{
+    color: aquamarine !important;
+  }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
     color: #0085a1;
